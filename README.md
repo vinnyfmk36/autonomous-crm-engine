@@ -1,6 +1,8 @@
-# 🤖 Autonomous AI-CRM & WhatsApp Growth Engine
+# 🤖 Autonomous AI Business Engine & Data Pipeline
 
-An end-to-end autonomous Customer Relationship Management (CRM) system designed to automate lead generation, customer support, and sales pipelines using Agentic Workflows and WhatsApp API integration. 
+An end-to-end autonomous architecture designed to orchestrate AI agents, process complex datasets, and automate full-stack business workflows. 
+
+While the current primary showcase is a **Customer Relationship Management (CRM) and Lead Generation pipeline**, the underlying engine is built to handle robust data extraction, ETL processes, and multi-agent operations for any B2B system.
 
 ## 🏗️ Architecture Overview
 
