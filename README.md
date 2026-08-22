@@ -18,9 +18,10 @@ This project is built on a modern AI-native stack, focusing on execution speed, 
 ## ⚙️ Key Features
 
 1.  **Autonomous Agentic Workflows:** Utilizing the Hermes Agent Framework to process incoming leads, categorize intent, and update the Supabase database automatically without human intervention.
-2.  **Omnichannel WhatsApp Integration:** Two-way communication via WhatsApp Business API, allowing the AI agent to handle customer inquiries 24/7 and trigger outbound marketing messages.
-3.  **Dynamic Function Calling:** The LLMs are not just chatbots; they utilize function calling to execute specific business tools (e.g., `check_payment_status`, `update_lead_stage`, `cross_reference_demographics`).
-4.  **Secure VPS Deployment:** Fully deployed on a custom VPS environment, managing daemon processes, secure API gateways, and environment variables safely via SSH (Termius).
+2.  **Automated Data Extraction & ETL:** Capable of cross-referencing incoming requests with external datasets (e.g., public APIs, Federal Revenue data) to enrich user profiles before updating the database.
+3.  **Omnichannel WhatsApp Integration:** Two-way communication via WhatsApp Business API, allowing the AI agent to handle customer inquiries 24/7 and trigger outbound marketing messages.
+4.  **Dynamic Function Calling:** The LLMs are not just chatbots; they utilize function calling to execute specific business tools (e.g., `check_payment_status`, `update_lead_stage`, `cross_reference_demographics`).
+5.  **Secure VPS Deployment:** Fully deployed on a custom VPS environment, managing daemon processes, secure API gateways, and environment variables safely via SSH (Termius).
 
 ## 🚀 How It Works (Data Flow)
 
